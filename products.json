@@ -14,8 +14,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "category": "7",
-            "diet": "4"
+            "category": "7"
         },            
         {
             "id": 2,
@@ -30,8 +29,7 @@
             "isPromo": true,
             "available": 50,
             "buyed": "890",          
-            "category": "7",
-            "diet": "4"
+            "category": "7"
         },
         {
             "id": 3,
@@ -46,8 +44,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k",
-            "category": "7",
-            "diet": "3"
+            "category": "7"
         },
         {
             "id": 4,
@@ -62,8 +59,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "category": "7",
-            "diet": "3"
+            "category": "7"
         },
         {
             "id": 5,
@@ -78,8 +74,7 @@
             "isPromo": true,
             "available": 100,
             "buyed": "1k2",
-            "category": "7",
-            "diet": "2"
+            "category": "7"
         },
         {
             "id": 6,
@@ -94,8 +89,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "category": "7",
-            "diet": "3"
+            "category": "7"
         },
         {
             "id": 7,
@@ -110,8 +104,7 @@
             "isPromo": true,
             "available": 120,
             "buyed": "1k", 
-            "category":  "7",
-            "diet": "1"
+            "category":  "7"
         },
         {
             "id": 8,
@@ -126,8 +119,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "category": "7",
-            "diet": "2"
+            "category": "7"
         },
         {
             "id": 9,
@@ -142,8 +134,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k",
-            "category": "7",
-            "diet": "3"
+            "category": "7"
         },
         {
             "id": 10,
@@ -158,8 +149,7 @@
             "isPromo": false,
             "available": 90,
             "buyed": "1k2",
-            "category": "7",
-            "diet": "4"
+            "category": "7"
         },
         {
             "id": 11,
@@ -174,8 +164,7 @@
             "isPromo": false,
             "available": 88,
             "buyed": "1k2",
-            "category": "7",
-            "diet": "1"
+            "category": "7"
         },
         {
             "id": 12,
@@ -190,8 +179,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k2",
-            "category": "7",
-            "diet": "1"
+            "category": "7"
         },
         {
             "id": 13,
@@ -206,8 +194,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k2",
-            "category": "7",
-            "diet": "1"
+            "category": "7"
         },
         {
             "id": 14,
@@ -222,8 +209,7 @@
             "isPromo": true,
             "available": 100,
             "buyed": "1k",
-            "category": "7",
-            "diet": "3"
+            "category": "7"
         },
     
         {
@@ -239,8 +225,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "1k2",
-            "category": "6",
-            "diet": "3"
+            "category": "6"
         },
         {
             "id": 16,
@@ -255,8 +240,7 @@
             "isPromo": false,
             "available": 40,
             "buyed": "672",
-            "category": "6",
-            "diet": "3"
+            "category": "6"
         },
         {
             "id": 17,
@@ -271,8 +255,7 @@
             "isPromo": false,
             "available": 45,
             "buyed": "1k2",
-            "category": "6",
-            "diet": "3"
+            "category": "6"
         },
         {
             "id": 18,
@@ -287,8 +270,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k5",
-            "category": "6",
-            "diet": "2"
+            "category": "6"
         },
         {
             "id": 19,
@@ -303,8 +285,7 @@
             "isFavorite": false,
             "isPromo": false,
             "available": 100,
-            "category": "6",
-            "diet": "4"
+            "category": "6"
         },
         {
             "id": 20,
@@ -319,8 +300,7 @@
             "isPromo": true,
             "available": 100,
             "buyed": "159",
-            "category": "6",
-            "diet": "4"
+            "category": "6"
         },
         {
             "id": 21,
@@ -335,8 +315,7 @@
             "isPromo": false,
             "available": 110,
             "buyed": "1k3",
-            "category": "6",
-            "diet": "4"
+            "category": "6"
         },
         {
             "id": 22,
@@ -354,8 +333,7 @@
             "isPromo": false,
             "available": 125,
             "buyed": "900",
-            "category": "6",
-            "diet": "2"
+            "category": "6"
         },
         {
             "id": 23,
@@ -370,8 +348,7 @@
             "isPromo": true,
             "available": 100,
             "buyed": "1k2",
-            "category": "6",
-            "diet": "2"
+            "category": "6"
         },
         {
             "id":24,
@@ -386,8 +363,7 @@
             "isPromo": true,
             "available": 100,
             "buyed": "1k2",
-            "category": "6",
-            "diet": "2"
+            "category": "6"
         },
       
         
@@ -404,8 +380,7 @@
             "isPromo": true,
             "available": 100,
             "buyed": "1k2",
-            "category": "6",
-            "diet": "3"
+            "category": "6"
         },
 
         
@@ -423,8 +398,7 @@
             "isPromo": true,
             "available": 120,
             "buyed": "1k",
-            "category": "6",
-            "diet": "2"
+            "category": "6"
         },
 
         {
@@ -440,8 +414,7 @@
             "isPromo": true,
             "available": 280,
             "buyed": "2k",
-            "category": "5",
-            "diet": "1"
+            "category": "5"
         },
         {
             "id":29,
@@ -456,8 +429,7 @@
             "isPromo": false,
             "available": 280,
             "buyed": "1k",
-            "category": "5",
-            "diet": "1"
+            "category": "5"
         },
         {
             "id": 30,
@@ -472,8 +444,7 @@
             "isPromo": false,
             "available": 280,
             "buyed": "1k5",
-            "category": "5",
-            "diet": "3"
+            "category": "5"
         },
         {
             "id": 31,
@@ -488,8 +459,7 @@
             "isPromo": false,
             "available": 280,
             "buyed": "1k",
-            "category": "5",
-            "diet": "4"
+            "category": "5"
         },
         {
             "id": 32,
@@ -504,8 +474,7 @@
             "isPromo": false,
             "available": 280,
             "buyed": "990",
-            "category": "5",
-            "diet": "4"
+            "category": "5"
         },
         {
             "id": 33,
@@ -520,8 +489,7 @@
             "isPromo": false,
             "available": 140,
             "buyed": "1k",
-            "category": "5",
-            "diet": "4"
+            "category": "5"
         },
         {
             "id": 34,
@@ -536,8 +504,7 @@
             "isPromo": true,
             "available": 280,
             "buyed": "1k8",
-            "category": "5",
-            "diet": "4"
+            "category": "5"
         },
         {
             "id": 35,
@@ -552,8 +519,7 @@
             "isPromo": false,
             "available": 280,
             "buyed": "1k",
-            "category": "5",
-            "diet": "4"
+            "category": "5"
         },
         {
             "id": 36,
@@ -568,8 +534,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "category": "5",
-            "diet": "4"
+            "category": "5"
         },
         {
             "id": 37,
@@ -584,8 +549,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "500",
-            "category": "1",
-            "diet": "4"
+            "category": "1"
         },
         {
             "id": 38,
@@ -600,7 +564,6 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "diet": "4",
             "category": "1"
         },
         {
@@ -616,7 +579,6 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "diet": "4",
             "category": "1"
         },
         {
@@ -632,7 +594,6 @@
             "isPromo": true,
             "available": 120,
             "buyed": "1k",
-            "diet": "4",
             "category": "1"
         },
         {
@@ -648,7 +609,6 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "diet": "4",
             "category": "1"
         },
         {
@@ -664,7 +624,6 @@
             "isPromo": false,
             "available": 140,
             "buyed": "500",
-            "diet": "4",
             "category": "1"
         },
         {
@@ -680,7 +639,6 @@
             "isPromo": true,
             "available": 120,
             "buyed": "1k1",
-            "diet": "4",
             "category": "1"
         },
         {
@@ -696,7 +654,6 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "diet": "4",
             "category": "1"
         },
         {
@@ -712,7 +669,6 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "diet": "4",
             "category": "1"
         },
         {
@@ -728,7 +684,6 @@
             "isPromo": false,
             "available": 125,
             "buyed": "1k2",
-            "diet": "4",
             "category": "1"
         },
         {
@@ -744,7 +699,6 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "diet": "4",
             "category": "1"
         },
         {
@@ -760,7 +714,6 @@
             "isPromo": true,
             "available": 124,
             "buyed": "1k1",
-            "diet": "4",
             "category": "1"
         },
         {
@@ -776,7 +729,6 @@
             "isPromo": false,
             "available": 120,
             "buyed": "600",
-            "diet": "4",
             "category": "1"
         },
         {
@@ -792,7 +744,6 @@
             "isPromo": false,
             "available": 120,
             "buyed": "1k1",
-            "diet": "4",
             "category": "6"
         },
 
@@ -809,8 +760,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "10",
-            "category": "4",
-            "diet": "4"
+            "category": "4"
         },
         {
             "id": 52,
@@ -825,8 +775,7 @@
             "isPromo": false,
             "available": 120,
             "buyed": "20",
-            "category": "4",
-            "diet": "3"
+            "category": "4"
         },
         {
             "id": 53,
@@ -841,8 +790,7 @@
             "isPromo": false,
             "available": 200,
             "buyed": "20",
-            "category": "4",
-            "diet": "1"
+            "category": "4"
         },
         {
             "id": 54,
@@ -857,8 +805,7 @@
             "isPromo": true,
             "available": 200,
             "buyed": "100",
-            "category": "4",
-            "diet": "3"
+            "category": "4"
         },
         {
             "id": 55,
@@ -873,8 +820,7 @@
             "isPromo": true,
             "available": 150,
             "buyed": "100",
-            "category": "4",
-            "diet": "1"
+            "category": "4"
         },
         {
             "id": 56,
@@ -889,8 +835,7 @@
             "isPromo": true,
             "available": 150,
             "buyed": "100",
-            "category": "4",
-            "diet": "3"
+            "category": "4"
         },
         {
             "id": 57,
@@ -905,8 +850,7 @@
             "isPromo": true,
             "available": 150,
             "buyed": "100",
-            "category": "4",
-            "diet": "3"
+            "category": "4"
         },
         {
             "id": 58,
@@ -921,8 +865,7 @@
             "isPromo": false,
             "available": 200,
             "buyed": "100",
-            "category": "4",
-            "diet": "4"
+            "category": "4"
         },
         {
             "id": 59,
@@ -937,8 +880,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "100",
-            "category": "4",
-            "diet": "3"
+            "category": "4"
         },
         {
             "id": 60,
@@ -953,8 +895,7 @@
             "isPromo": false,
             "available": 160,
             "buyed": "100",
-            "category": "4",
-            "diet": "3"
+            "category": "4"
         },
         {
             "id": 61,
@@ -969,8 +910,7 @@
             "isPromo": true,
             "available": 130,
             "buyed": "80",
-            "category": "4",
-            "diet": "3"
+            "category": "4"
         },
         {
             "id": 62,
@@ -985,8 +925,7 @@
             "isPromo": true,
             "available": 100,
             "buyed": "90",
-            "category": "3",
-            "diet": "1"
+            "category": "3"
         },
         {
             "id": 63,
@@ -1001,8 +940,7 @@
             "isPromo": true,
             "available": 60,
             "buyed": "30",
-            "category": "3",
-            "diet": "1"
+            "category": "3"
         },
         {
             "id": 64,
@@ -1017,8 +955,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "70",
-            "category": "3",
-            "diet": "1"
+            "category": "3"
         },
         {
             "id": 65,
@@ -1033,8 +970,7 @@
             "isPromo": false,
             "available": 140,
             "buyed": "100",
-            "category": "3",
-            "diet": "3"
+            "category": "3"
         },
         {
             "id": 66,
@@ -1049,8 +985,7 @@
             "isPromo": true,
             "available": 80,
             "buyed": "50",
-            "category": "3",
-            "diet": "3"
+            "category": "3"
         },
         {
             "id": 67,
@@ -1065,8 +1000,7 @@
             "isPromo": true,
             "available": 120,
             "buyed": "30",
-            "category": "3",
-            "diet": "3"
+            "category": "3"
         },
         {
             "id": 68,
@@ -1081,8 +1015,7 @@
             "isPromo": true,
             "available": 120,
             "buyed": "20",
-            "category": "3",
-            "diet": "4"
+            "category": "3"
         },
         {
             "id": 69,
@@ -1097,8 +1030,7 @@
             "isPromo": false,
             "available": 70,
             "buyed": "60",
-            "category": "3",
-            "diet": "1"
+            "category": "3"
         },
         {
             "id": 70,
@@ -1113,8 +1045,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "70",
-            "category": "3",
-            "diet": "1"
+            "category": "3"
         },
         {
             "id": 71,
@@ -1129,8 +1060,7 @@
             "isPromo": false,
             "available": 100,
             "buyed": "70",
-            "category": "3",
-            "diet": "3"
+            "category": "3"
         },
         {
             "id": 72,
@@ -1145,8 +1075,7 @@
             "isPromo": false,
             "available": 80,
             "buyed": "60",
-            "category": "3",
-            "diet": "1"
+            "category": "3"
         },
         {
             "id": 73,
@@ -1161,8 +1090,7 @@
             "isPromo": false,
             "available": 80,
             "buyed": "50",
-            "category": "8",
-            "diet": "3"
+            "category": "8"
         },
         {
             "id": 74,
@@ -1177,8 +1105,7 @@
             "isPromo": false,
             "available": 40,
             "buyed": "90",
-            "category": "8",
-            "diet": "4"
+            "category": "8"
         },
         {
             "id": 75,
@@ -1193,8 +1120,7 @@
             "isPromo": false,
             "available": 40,
             "buyed": "20",
-            "category": "8",
-            "diet": "3"
+            "category": "8"
         },
         {
             "id": 76,
@@ -1209,8 +1135,7 @@
             "isPromo": false,
             "available": 30,
             "buyed": "10",
-            "category": "8",
-            "diet": "4"
+            "category": "8"
         },
         {
             "id": 77,
@@ -1225,8 +1150,7 @@
             "isPromo": true,
             "available": 40,
             "buyed": "60",
-            "category": "8",
-            "diet": "1"
+            "category": "8"
         },
         {
             "id": 78,
@@ -1241,8 +1165,7 @@
             "isPromo": true,
             "available": 40,
             "buyed": "60",
-            "category": "8",
-            "diet": "3"
+            "category": "8"
         },
         {
             "id": 79,
@@ -1257,8 +1180,7 @@
             "isPromo": false,
             "available": 40,
             "buyed": "60",
-            "category": "8",
-            "diet": "3"
+            "category": "8"
         },
         {
             "id": 80,
@@ -1273,8 +1195,7 @@
             "isPromo": false,
             "available": 40,
             "buyed": "50",
-            "category": "8",
-            "diet": "3"
+            "category": "8"
         },
 
         {
@@ -1290,8 +1211,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "60",
-            "category": "8",
-            "diet": "3"
+            "category": "8"
         },
         {
             "id": 82,
@@ -1306,8 +1226,7 @@
             "isPromo": false,
             "available": 60,
             "buyed": "50",
-            "category": "2",
-            "diet": "1"
+            "category": "2"
         },
         {
             "id": 83,
@@ -1322,8 +1241,7 @@
             "isPromo": true,
             "available": 50,
             "buyed": "70",
-            "category": "2",
-            "diet": "3"
+            "category": "2"
         },
         {
             "id": 84,
@@ -1338,8 +1256,7 @@
             "isPromo": true,
             "available": 50,
             "buyed": "70",
-            "category": "2",
-            "diet": "3"
+            "category": "2"
         },
         {
             "id": 85,
@@ -1354,8 +1271,7 @@
             "isPromo": true,
             "available": 50,
             "buyed": "10",
-            "category": "2",
-            "diet": "4"
+            "category": "2"
         },
         {
             "id": 86,
@@ -1370,8 +1286,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "10",
-            "category": "2",
-            "diet": "1"
+            "category": "2"
         },
         {
             "id": 87,
@@ -1386,8 +1301,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "10",
-            "category": "2",
-            "diet": "1"
+            "category": "2"
         },
         {
             "id": 88,
@@ -1402,8 +1316,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "50",
-            "category": "2",
-            "diet": "3"
+            "category": "2"
         },
         {
             "id": 89,
@@ -1418,8 +1331,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "50",
-            "category": "2",
-            "diet": "3"
+            "category": "2"
         },
 
         {
@@ -1435,8 +1347,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "60",
-            "category": "2",
-            "diet": "3"
+            "category": "2"
         },
 
         {
@@ -1452,8 +1363,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "60",
-            "category": "2",
-            "diet": "3"
+            "category": "2"
         },
         {
             "id": 92,
@@ -1468,8 +1378,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "60",
-            "category": "2",
-            "diet": "3"
+            "category": "2"
         },
 
         {
@@ -1485,8 +1394,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "40",
-            "category": "2",
-            "diet": "2"
+            "category": "2"
         },
 
         {
@@ -1502,8 +1410,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "40",
-            "category": "2",
-            "diet": "2"
+            "category": "2"
         },
 
         {
@@ -1519,8 +1426,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "25",
-            "category": "2",
-            "diet": "2"
+            "category": "2"
         },
 
         {
@@ -1536,8 +1442,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "25",
-            "category": "8",
-            "diet": "2"
+            "category": "8"
         },
         {
             "id": 97,
@@ -1552,8 +1457,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "25",
-            "category": "3",
-            "diet": "4"
+            "category": "3"
         },
 
         {
@@ -1569,8 +1473,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "50",
-            "category": "1",
-            "diet": "2"
+            "category": "1"
         },
         {
             "id": 99,
@@ -1585,8 +1488,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "40",
-            "category": "1",
-            "diet": "2"
+            "category": "1"
         },
         {
             "id": 100,
@@ -1601,8 +1503,7 @@
             "isPromo": false,
             "available": 50,
             "buyed": "70",
-            "category": "7",
-            "diet": "2"
+            "category": "7"
         }
     ]
 }
